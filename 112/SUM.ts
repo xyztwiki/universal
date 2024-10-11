@@ -9,7 +9,6 @@ import "antisquare.c"
 import "antipyramid.c"
 import "tri.c"
 import "antitri.c"
-import "stdio.h"
 void function component(){
  type DET ="det1234 + det5678 + det9101112";
  type TRI = "tri - antitri";
