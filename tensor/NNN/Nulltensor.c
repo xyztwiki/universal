@@ -1,10 +1,10 @@
 void Nulltensor(){
      int Nulltensor[1]=
-      {1}
+           {1}
 ;
      int Nulltensor2[2][2] =
-     {{2,2},
-      {2,2}}
+          {{2,2},
+           {2,2}}
 ;
      int Nulltensor3[3][3] =
          {{3,3,3},
