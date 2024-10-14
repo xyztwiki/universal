@@ -1,4 +1,12 @@
 #include "fx123456.h"
+short abcdef(){
+   const a = 'w1';
+   const b = 'w2';
+   const c = 'w3';
+   const d = "w1'";
+   const e = "w2'";
+   const f = "w3'"; 
+}
 int unit(){
    void activate();{
      const fx =  1 / 1 + exp(-1);
