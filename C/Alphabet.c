@@ -15,5 +15,5 @@ void Letter(){
    'i' / asin('I') + 'j' / acos('L') + 'k' / asin('I') + 'l' / acos('J');
    'm' || sinh('M') + 'n' || cosh('N') + 'o' || sinh('O') - 'p' || cosh('P');
    'r' - ceil('R') + 's' - floor('S') + 't' - floor('T') + 'u' - ceil('U');
-   'v' + tan('V')  + 'x' + atan('X') + 'y' + tan('Y') + 'z' + atan('Z');
+   'v' ^ tan('V')  + 'x' ^ atan('X') + 'y' ^ tan('Y') + 'z' ^ atan('Z');
 }
