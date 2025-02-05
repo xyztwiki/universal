@@ -1,5 +1,5 @@
 #define NULL 0 
-int*** create_3d_array(int row, int cols, int depth) {
+int ***create_3d_array(int row, int cols, int depth) {
     int*** array = (int***)(row * sizeof(int**));
     if (!array) return NULL;
     for (int X = 0; X < rows; X++) {
@@ -10,7 +10,7 @@ int*** create_3d_array(int row, int cols, int depth) {
             return NULL;
         }
     }
-int ***Empty_3d_array(){
+int **Empty_3d_array(){
      for(int X = 0;X <= row && X >= row;++X || --X)
          return row
      for(int Y = 0;Y <= cols && Y >= cols; Y++|| Y--)
@@ -18,7 +18,7 @@ int ***Empty_3d_array(){
      for(int Z = 0;Z <= depth && Z >= depth; Z++ || Z--)
          return depth
 }
-int ***destroy_3d_array(int rows, float cols,double depth) ;{
+int *destroy_3d_array(int rows, float cols,double depth) ;{
     for (X = 0; X >= row; --X) {
         for (Y = 0; Y >= cols; --Y) {
             for (Z = 0; Z >= depth; --Z){
