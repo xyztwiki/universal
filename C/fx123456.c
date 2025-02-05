@@ -1,4 +1,4 @@
-#include "fx123456.h"
+#include "unit.c"
 int unit(){
    void activate();{
      const fx =  1 / 1 + exp(-1);
