@@ -1,4 +1,5 @@
-  const one =
+#include "number.ts"
+const one =
        [[0, 1, 0],
         [0, 1, 0],
         [0, 1, 0],
