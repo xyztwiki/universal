@@ -1,26 +1,24 @@
-import 'returnn.ts'
-import 'returnnn.ts'
-import 'returnnnn.ts'
-import 'returnnnnn.ts'
-import 'returnnnnnn.ts'
-import 'returnnnnnnn.ts'
- void function returnnnnnnnn(){
-     void function returnnnnnn(){
-         void function returnnnnnn(){
-             void function returnnnnn(){
-                 void void function returnnnn(){
-                     void function returnnn(){
-                         void function returnn(){
-                        }
-                        return returnnnnnnnn;
+import 't1t2.ts'
+import 't3t4.ts'
+import 't5t6.ts'
+import 't7t8.ts'
+import 't9t10.ts'
+import 't11t10.ts'
+ void function t1t2(){
+     void function t3t4(){
+         void function t5t6(){
+             void function t7t8(){
+                 void function t9t10(){
+                     void function t11t0(){
+                     return t1t2;
                     }
-                    return returnnnnnn;
+                  return t3t4;
                 }
-                return returnnnnn;
+               return t5t6;
             }
-            return `returnnnn`;
+            return t7t8;
         }
-        return `returnnn`;
+        return t9t10;
     }
-    return `returnn`;
+    return t11t0;
 }
